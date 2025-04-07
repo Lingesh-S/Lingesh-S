@@ -74,3 +74,9 @@
 [![](https://visitcount.itsvg.in/api?id=Lingesh-s&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM + Custom Animation ❤️ -->
+
+
+<p align="center">
+  <img src="https://Lingesh-S.github.io/snake-animation/github-contribution-grid-snake.svg" alt="github contribution snake animation">
+</p>
+
