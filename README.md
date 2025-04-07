@@ -12,7 +12,7 @@
 ### 🧠 About Me
 - 🔭 Currently working on **Generative AI** and **ML projects**
 - 🌱 Deep-diving into **LLMs**, **Transformers**, and **Data Dashboards**
-- 🧠 Passionate about **Data Analytics** and building end-to-end app
+- 🧠 Passionate about **Data Analytics** and building end-to-end apps
 - ⚡ Fun Fact: I vent to AI models more than I talk to humans on some days.
 
 ---
