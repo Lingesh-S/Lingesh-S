@@ -48,9 +48,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lingesh-s&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-<p align="center">
-  <img src="https://Lingesh-S.github.io/snake-animation/github-contribution-grid-snake.svg" alt="github contribution snake animation">
-</p>
 
 
 
