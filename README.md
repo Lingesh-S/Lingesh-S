@@ -48,6 +48,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lingesh-s&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+### 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Lingesh-S/snake-animation/main/assets/snake.svg)
 
 
 
