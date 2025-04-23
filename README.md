@@ -53,7 +53,6 @@
 ![snake gif](https://raw.githubusercontent.com/Lingesh-S/snake-animation/main/assets/snake.svg)
 
 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
