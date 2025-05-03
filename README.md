@@ -50,9 +50,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Lingesh-S&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
-### 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/Lingesh-S/snake-animation/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lingesh-S/snake-animation/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Lingesh-S/snake-animation/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://github.com/Lingesh-S/snake-animation/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
