@@ -76,7 +76,7 @@
 
 ### 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lingesh-s29)
-[![Twitter(X)](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white))](https://x.com/LINGESH_S29)
+[![Twitter](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white))](https://x.com/LINGESH_S29)
 
 
 ---
