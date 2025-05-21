@@ -49,7 +49,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Lingesh-s&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Lingesh-s&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lingesh-s&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Profile Views](https://komarev.com/ghpvc/?username=Lingesh-S&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge)
+
+![Profile Views](https://img.shields.io/badge/👁️_Profile_Views-555-blue?style=for-the-badge)
 
 
 ---
