@@ -52,6 +52,8 @@
 
 ![Profile Views](https://img.shields.io/badge/👁️_Profile_Views-555-blue?style=for-the-badge)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Lingesh-S&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 ### 🐍 GitHub Contribution Snake
