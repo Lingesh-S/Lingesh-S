@@ -40,7 +40,7 @@
 ![n8n](https://img.shields.io/badge/n8n-%23EF7C14.svg?style=for-the-badge&logo=n8n&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFCA00.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=LangChain&logoColor=white)
-
+![Power BI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
 ---
