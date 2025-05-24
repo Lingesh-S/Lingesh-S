@@ -13,7 +13,7 @@
 - 🌱 Deep-diving into **LLMs**, **Transformers**, and **Data Dashboards**
 - 🧠 Passionate about **Data Analytics** and building end-to-end apps
 - ⚡ Fun Fact: I vent to AI models more than I talk to humans on some days.
-
+  
 ---
 
 ## 💻 Tech Stack:
@@ -55,7 +55,6 @@
 ### 🐍 GitHub Contribution Snake
 
 ![snake gif](https://github.com/Lingesh-S/snake-animation/blob/output/github-contribution-grid-snake.svg)
-
 
 
 
