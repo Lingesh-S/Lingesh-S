@@ -88,5 +88,34 @@
 
 <!-- Proudly created with GPRM + Custom Animation ❤️ -->
 
+<div align="center">
+
+<h3> Connect with me  
+<a href="https://gifyu.com/image/bxYry">
+  <img src="https://s.gifyu.com/images/Handshake.gif" width="60">
+</a>
+</h3> 
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/lingesh-s29/" target="_blank">
+    <img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg">
+  </a>
+
+  <a href="https://x.com/LINGESH_S29" target="_blank">
+    <img alt="X" width="25px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/x.svg?raw=true">
+  </a>
+
+  <a href="mailto:lingeshsrinivasan1@gmail.com" target="_blank">
+    <img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg">
+  </a>
+
+  <a href="https://github.com/Lingesh-S" target="_blank">
+    <img alt="GitHub" width="25px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
+  </a>
+
+</p>
+</div>
+
 
 
