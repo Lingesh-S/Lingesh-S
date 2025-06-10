@@ -88,11 +88,7 @@
 
 <!-- Proudly created with GPRM + Custom Animation ❤️ -->
 
-### 🤝 Connect with me  
-<a href="https://gifyu.com/image/bxYry">
-  <img src="https://s.gifyu.com/images/Handshake.gif" width="60">
-</a>
-
+### 📫 Let's Connect   
 <p>
 
 <a href="https://www.linkedin.com/in/lingesh-s29/" target="_blank">
@@ -100,7 +96,7 @@
 </a>&nbsp;&nbsp;
 
 <a href="https://x.com/LINGESH_S29" target="_blank">
-  <img alt="X" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg">
+  <img alt="X" width="28px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg">
 </a>&nbsp;&nbsp;
 
 <a href="mailto:lingeshsrinivasan1@gmail.com" target="_blank">
@@ -108,7 +104,7 @@
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/Lingesh-S" target="_blank">
-  <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+   <img alt="GitHub" width="25px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
 </a>
 
 </p>
