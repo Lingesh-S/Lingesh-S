@@ -88,7 +88,7 @@
 </a>&nbsp;&nbsp;
 
 <a href="https://x.com/LINGESH_S29" target="_blank">
-<img alt="GitHub" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img alt="X" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_%28white%29.png">
 </a>&nbsp;&nbsp;
 
 <a href="mailto:lingeshsrinivasan1@gmail.com" target="_blank">
