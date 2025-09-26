@@ -12,6 +12,7 @@
 - 🔭 Currently working on **Generative AI** and **ML projects**
 - 🌱 Developing AI/ML-powered workflows for financial data automation
 - 🤖 Building and fine-tuning language models for intelligent XBRL tagging
+- 🛠 Designing and implementing RAG pipelines, LangChain-based assistants, fine-tuned custom models, and transformer-powered solutions using Python
 
   
 ---
