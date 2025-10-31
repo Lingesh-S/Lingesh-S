@@ -41,6 +41,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![n8n](https://img.shields.io/badge/n8n-%23EF7C14.svg?style=for-the-badge&logo=n8n&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFCA00.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-%234C1D95.svg?style=for-the-badge&logo=database&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=LangChain&logoColor=white)
