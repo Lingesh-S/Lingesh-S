@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Lingesh</h1>
 <p align="center">
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Scientist+@+DataTracks;AI+%7C+ML+%7C+LLMs+%7C+RAG+Explorer;Coding the Future with AI+%F0%9F%A4%96;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Scientist+@+DataTracks;AI+%7C+ML+%7C+LLMs+%7C+RAG+Explorer;Coding+the+Future+with+AI+%F0%9F%A4%96;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
