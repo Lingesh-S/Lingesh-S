@@ -33,6 +33,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-%23AA0000.svg?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-%23FFCA00.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-%23005F73.svg?style=for-the-badge&logo=semanticweb&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
