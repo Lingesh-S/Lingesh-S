@@ -53,6 +53,25 @@
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=LangChain&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Transformers-%23FFCA00.svg?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Diffusers-%23FFCA00.svg?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HuggingFace-%23FFCA00.svg?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <br/>
+  <img src="https://img.shields.io/badge/SentenceTransformers-%23005F73.svg?style=for-the-badge&logo=semanticweb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=LangChain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-%2300B0FF.svg?style=for-the-badge&logo=graph&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/LlamaIndex-%23FFD700.svg?style=for-the-badge&logo=llama&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Anthropic-%23000000.svg?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cohere-%23005AEE.svg?style=for-the-badge&logo=cohere&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MistralAI-4A4AFF?style=for-the-badge&logo=mistral&logoColor=white"/>
+</p>
+
+
 
 ---
 
