@@ -59,7 +59,7 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lingesh-s&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Lingesh-s&theme=dark&hide_border=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Lingesh-s&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lingesh-s&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
