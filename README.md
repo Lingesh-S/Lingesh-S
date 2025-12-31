@@ -79,10 +79,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Lingesh-s&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 
-### 🎯 Goals for 2025
-- 🚀 Master Gen AI & LLM-based apps  
-- 📊 Build & share more AI dashboards  
-- 🤝 Collaborate with the open-source AI community  
+
 
 ---
 
