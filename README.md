@@ -69,7 +69,10 @@
 ---
 ### 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/Lingesh-S/snake-animation/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lingesh-S/Lingesh-S/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Lingesh-S/Lingesh-S/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
 
